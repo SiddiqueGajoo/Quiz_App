@@ -59,6 +59,10 @@ flutter run
 
 #Flutter #Dart #QuizApp #FlutterProjects #MobileDevelopment #StateManagement #ResponsiveUI #GitHub
 
+#Ui
+![Learn Flutter the fun way!](https://github.com/user-attachments/assets/e8d482c9-ea99-47c7-b38b-70360857b74a)
+
+#Demo Video
 https://github.com/user-attachments/assets/1fe4c1a1-45a6-4717-b53d-12e3cb79c73d
 
 
